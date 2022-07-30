@@ -5,3 +5,5 @@
 ![Discord](https://img.shields.io/badge/Beventar2194-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beventar&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Beventar&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
