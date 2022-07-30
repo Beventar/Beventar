@@ -2,4 +2,7 @@
 
 ![Discord](https://img.shields.io/badge/Beventar_2194-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beventar&show_icons=true&theme=radical)
+<details>
+           <summary>Stats</summary>
+           <p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beventar&show_icons=true&theme=radical)</p>
+         </details>
