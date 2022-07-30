@@ -5,14 +5,6 @@
 <details>
   <summary><b>:gear: &nbsp;Statistics</b></summary>
     <p>
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beventar&show_icons=true&theme=radical)"
-    </p>
-</details>
-
-<details>
-  <summary><b>:gear: &nbsp;Statistics</b></summary>
-  <br/>
-    <p>
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Beventar&show_icons=true&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Beventar&show_icons=true&theme=radical" />
     </p>
 </details>
