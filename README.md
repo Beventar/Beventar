@@ -3,7 +3,11 @@
 ![Discord](https://img.shields.io/badge/Beventar_2194-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 <details>
-  <summary><b>:bar_chart: &nbsp;Statistics</b></summary>
+  <summary><b>
+    
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&height=19&lines=%F0%9F%93%8A+Statistics;%F0%9F%93%8A+Statystyki;%F0%9F%93%8A+Estad%C3%ADsticas;%F0%9F%93%8A+Statistiques;%F0%9F%93%8A+Statistieken)](https://git.io/typing-svg)
+    
+    </b></summary>
   <br/>
     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=Beventar&show_icons=true&theme=radical" />
