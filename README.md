@@ -5,7 +5,7 @@
 <details>
   <summary>
   &nbsp;
-  <a href="https://git.io/typing-svg" style="vertical-align:text-bottom"><img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&height=33&lines=%F0%9F%93%8A+Statistics;%F0%9F%93%8A+Statystyki;%F0%9F%93%8A+Estad%C3%ADsticas;%F0%9F%93%8A+Statistiques;%F0%9F%93%8A+Statistieken" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg" style="vertical-align:bottom"><img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&height=33&lines=%F0%9F%93%8A+Statistics;%F0%9F%93%8A+Statystyki;%F0%9F%93%8A+Estad%C3%ADsticas;%F0%9F%93%8A+Statistiques;%F0%9F%93%8A+Statistieken" alt="Typing SVG" />
   </a>
   </summary>
   <br/>
