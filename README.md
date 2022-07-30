@@ -2,6 +2,6 @@
 
 - 📫 How to reach me:
 
-https://img.shields.io/badge/Discord-Beventar#2194-blueviolet?style=for-the-badge&logo=discord&logoColor=white
+![Discord](https://img.shields.io/badge/Discord-Beventar#2194-blueviolet?style=for-the-badge&logo=discord&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beventar&show_icons=true&theme=radical)
